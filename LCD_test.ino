@@ -1,11 +1,11 @@
 #include <LiquidCrystal.h>
 
-int RS = 2;
-int E = 3;
-int d4 = 4;
-int d5 = 5;
-int d6 = 6;
-int d7 = 7;
+int RS = 7;
+int E = 6;
+int d4 = 2;
+int d5 = 3;
+int d6 = 4;
+int d7 = 5;
 
 int i = 7;
 int score = 0;
